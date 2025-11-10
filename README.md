@@ -3,7 +3,7 @@ This repo contains the work for the second group project for John Shuford, Dnyan
 
 ## Team Members, Roles
 
-#### Dnyanada Bhosale
+#### Dnyanada Bhosale : Generated bar charts to display top bigrams and trigrams. Interpreted the time complexity analysis for preprocessing and counts.
 
 #### Thiyagu Rajendran
 
