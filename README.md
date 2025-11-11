@@ -22,4 +22,8 @@ Amber was responsible for Q2: Letters and Words Analysis. She created three prep
 
 ## Setup Instructions
 
+After loading the project to your local environment, open the notebook "DSA_GP2_Group12.ipynb" and run all cells.
+
 ## Summary of Results
+
+Successful completion of Q1: Create a Table of Contents for *Foundations of Data Science* using Tree, and Q2: Analyze the Letters/Words of *Little Women*. Please see the .ipynb notebook for detailed summary of results.
