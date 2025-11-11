@@ -5,7 +5,7 @@ This repo contains the work for the second group project for John Shuford, Dnyan
 
 #### Dnyanada Bhosale : Generated bar charts to display top bigrams and trigrams. Interpreted the time complexity analysis for preprocessing and counts.
 
-#### Thiyagu Rajendran
+#### Thiyagu Rajendran : Was responsible for implementing tree traversals, including both depth-first search (DFS) and breadth-first search (BFS). Additionally, calculated and displayed the depth and height of the tree, wrote basic test cases using hardcoded data, and presented the table of contents in plain, indented, and indented-with-numbering formats.
 
 #### John Shuford
 
